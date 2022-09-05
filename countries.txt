@@ -5,3 +5,5 @@ Spain
 
 Swiss
 UK 
+
+Banned countries: Zambia
