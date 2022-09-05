@@ -1,4 +1,4 @@
-Italy
+Italyyyy Conflict
 Germany
 France
 Spain
@@ -9,3 +9,4 @@ UK
 Banned countries: Zambia
 
 New banned: South Africa
+new Austria
