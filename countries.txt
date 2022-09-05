@@ -7,3 +7,5 @@ Swiss
 UK 
 
 Banned countries: Zambia
+
+New banned: South Africa
