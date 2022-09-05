@@ -9,3 +9,4 @@ UK
 Banned countries: Zambia
 
 New banned: South Africa
+new Austria
