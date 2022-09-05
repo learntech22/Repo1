@@ -1,4 +1,10 @@
 removed italy
+New banned: South Africa
+new Austria
+
+New banned: South Africa
+new Austria
+
 Germany
 
 
@@ -13,3 +19,5 @@ Banned countries: Zambia
 
 New banned: South Africa
 new Austria
+France
+Spain
